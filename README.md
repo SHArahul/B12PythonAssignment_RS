@@ -13,7 +13,7 @@ Includes at least one special character (e.g., `!@#$%`)
 **Run:**
 python password_checker.py
 
-**Q2: CPU Usage Monitor**
+## Q2: CPU Usage Monitor
 Continuously monitors CPU usage and alerts if it exceeds a threshold (default: 80%).
 Uses the psutil library
 Handles runtime errors
@@ -22,7 +22,7 @@ Runs until manually stopped
 Run:
 python cpu_monitor.py
 
-**Q4: File Backup Utility**
+## Q4: File Backup Utility
 Backs up files from a source directory to a destination directory.
 Appends a timestamp if a file with the same name exists
 Handles missing or invalid paths
