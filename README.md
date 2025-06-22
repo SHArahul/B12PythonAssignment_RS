@@ -40,7 +40,6 @@ You have a strong password which has atleast eight characters both in upper and 
 
 
 ##2.2 CPU Usage Monitor Cpu_monitor.py
-# Optional flag --threshold lets you raise/lower the limit
 python Cpu_monitor.py
 What happens:
 
