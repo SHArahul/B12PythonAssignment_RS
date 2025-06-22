@@ -13,7 +13,7 @@ This repository contains Python scripts for common DevOps tasks: password streng
 
 ## 1. Quick-start
 
-```bash
+
 # 1. Clone the repository
 git clone https://github.com/SHArahul/B12PythonAssignment_RS.git
 cd B12PythonAssignment_RS
