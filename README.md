@@ -68,7 +68,21 @@ B12PythonAssignment_RS/
 ├─ backup.py           # Q4 – File backup tool
 ├─ .gitignore
 └─ README.md           # (you are here)
+---
+Screenshot of output:
+Cpu_monitor.py:
+![cpu-monitoring](https://github.com/user-attachments/assets/ed8b68a5-baad-4c03-95ef-3a383109814b)
 
+Python backup Script:
+![backup script python](https://github.com/user-attachments/assets/b617a6c9-8d80-4f7f-847c-bf57559b2034)
+![image](https://github.com/user-attachments/assets/35c23b61-2ada-46ad-8eec-0286b95875c9)
+
+
+Password strength check:
+![passwordcheck](https://github.com/user-attachments/assets/eb97dd34-7716-4ed8-8a0b-0868532f8333)
+
+
+---
 ##4. Tested Environment
 Component	Version
 Python	3.10 – 3.12
