@@ -18,11 +18,7 @@ This repository contains Python scripts for common DevOps tasks: password streng
 git clone https://github.com/SHArahul/B12PythonAssignment_RS.git
 cd B12PythonAssignment_RS
 
-# 2. (Optional but recommended) create venv
-python -m venv .venv && source .venv/bin/activate      # Linux / macOS
-# .venv\Scripts\Activate.ps1                            # Windows PowerShell
-
-# 3. Install the only third-party dependency
+# 2. Install the dependency
 pip install psutil
 psutil is needed only by Cpu_monitor.py.
 All other imports are from Python’s standard library.
