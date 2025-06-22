@@ -59,11 +59,17 @@ The script prints one line per file copied.
 ##3. Repo Structure
 
 B12PythonAssignment_RS/
+
 ├─ Python_passgen.py   # Q1 – Password checker
+
 ├─ Cpu_monitor.py      # Q2 – CPU monitor
+
 ├─ backup.py           # Q4 – File backup tool
+
 ├─ .gitignore
+
 └─ README.md           # (you are here)
+
 ---
 Screenshot of output:
 Cpu_monitor.py:
